@@ -57,8 +57,8 @@
 				04DF8C1A210122270031823C /* AppDelegate.swift */,
 				04DF8C1C210122270031823C /* ViewController.swift */,
 				04DF8C1E210122270031823C /* Main.storyboard */,
-				04DF8C212101222C0031823C /* Assets.xcassets */,
 				04DF8C232101222C0031823C /* LaunchScreen.storyboard */,
+				04DF8C212101222C0031823C /* Assets.xcassets */,
 				04DF8C262101222C0031823C /* Info.plist */,
 			);
 			path = Friend;
@@ -285,6 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5RU645LY46;
 				INFOPLIST_FILE = Friend/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +304,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5RU645LY46;
 				INFOPLIST_FILE = Friend/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
